@@ -1,0 +1,11 @@
+body {
+    background-color: darkseagreen;
+}
+#h1{
+    font-family: Baghdad;
+    text-align: right;
+    content : "Hangman";
+    text-decoration-color: white;
+    text-shadow: aqua;
+    font-size: 100pc;
+}
